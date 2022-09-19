@@ -23,5 +23,5 @@ Copy the link which has appeared
 ```bash
 Server launched at http://127.0.0.1:8080
 ```
-
+Push explore button to discover more information about bands
 
